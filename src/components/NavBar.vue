@@ -1,3 +1,6 @@
+<script>
+  import { RouterLink, RouterView } from 'vue-router'
+</script>
 <template>
   <div class="nav">
     <img src="https://media.discordapp.net/attachments/1229488327124586607/1229489909648199810/772BDE8C-F7B0-422A-8B7D-CD8162611EBF.png?ex=662fdeb5&is=661d69b5&hm=92eaeed4cc570f537d0f7c50082f96fb73f51b2e6ab7fce9f14d646114f6add2&=&format=webp&quality=lossless&width=80&height=80">
@@ -5,7 +8,7 @@
       <a href="/">الرئيسية</a>
       <a href="#prices">الأسعار</a>
       <a href="/#works">الأعمال</a>
-      <a href="/order">اطلب الان</a>
+      <RouterLink class="page" to="/order">اطلب الان</RouterLink>
     </div>
     <a class="btn" href="https://discord.gg/l-m1">سيرفر الديسكورد</a>
   </div>
@@ -30,7 +33,7 @@
   gap:30px;
 }
 
-.nav .pages a{
+.nav .pages a,.page{
   text-decoration:none;
   color:white;
   cursor:pointer;
