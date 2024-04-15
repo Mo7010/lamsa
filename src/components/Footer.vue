@@ -7,18 +7,18 @@
       </div>
       <list>
           <nav>
-          <a href="/">Home</a>
-          <a href="/">About</a>
+          <a href="#">Home</a>
+          <a href="#">About</a>
           <a href="#works">Works</a>
           <a href="#prices">Prices</a>
-          <a href="/order">Contact</a>
+          <a href="https://discord.gg/l-m1">Order</a>
       </nav>
       <nav>
-          <a href="/order">الطلب</a>
-          <a href="/">عنا</a>
+          <a href="https://discord.gg/l-m1">الرئيسية</a>
+          <a href="#">عنا</a>
           <a href="#works">الاعمال</a>
           <a href="#prices">الاسعار</a>
-          <a href="/order">التواصل</a>
+          <a href="https://discord.gg/l-m1">التواصل</a>
       </nav>
       </list>
   </footer>
