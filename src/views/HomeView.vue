@@ -334,11 +334,11 @@ main{
   .works img{
     width:80%;
   }
-  .cont1{
+  .cont1,.works .card{
     width:80%;
   }
-  .cont1 p{
-    font-size:15px;
+  .cont1 p,.cont 1{
+    font-size:20px;
   }
 }
 </style>
