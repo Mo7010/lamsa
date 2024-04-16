@@ -67,8 +67,8 @@ footer {
 
   @media (max-width: 700px){
     footer img{
-      width:300px;
-      height:300px;
+      width:200px;
+      height:200px;
     }
   }
 </style>
