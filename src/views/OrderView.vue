@@ -181,7 +181,7 @@ export default{
 
 @media (max-width:700px) {
     .cont img{
-        width:400px;
+        width:300px;
     }
   }
 
