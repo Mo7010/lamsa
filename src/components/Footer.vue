@@ -64,4 +64,10 @@ footer {
           height:400px;
           margin-left:10px;
       }
+
+  @media (max-width: 700px){
+    .footer img{
+      width:300px;
+      height:300px;
+  }
 </style>
