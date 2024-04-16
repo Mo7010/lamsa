@@ -334,9 +334,14 @@ main{
   .works img{
     width:80%;
   }
-  .cont1,.works .card{
-    width:80%;
+  .cont1{
+    width:90%;
   }
+
+  .prices .card{
+    width:90%;
+  }
+  
   .cont1 p,.cont 1{
     font-size:20px;
   }
