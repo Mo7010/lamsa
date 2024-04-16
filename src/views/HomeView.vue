@@ -342,8 +342,11 @@ main{
     width:90%;
   }
   
-  .cont1 p,.cont 1{
+  .cont1 p{
     font-size:20px;
+  }
+  .prices .card h2,.pricrs .card .info,.prices .card .price{
+    width:80vh;
   }
 }
 </style>
