@@ -14,7 +14,7 @@ export default{
     },
     methods:{
         sendApply(){
-            const webhookUrl = 'https://discord.com/api/webhooks/1229528894131142817/guSDEghUQQMf3Ps-DUoUQc6PUodHUA_v4F5EeJCrMhumgcxhfVgm2vyVYXnjw9WiqJCf'
+            const webhookUrl = 'https://discord.com/api/webhooks/1229743795868930099/1rV2n6IxG_JNFBWB0vcl4a1WB-plW3gd8O1Aa7ehdSMNohVk2m0hQbAGWkPDplRA-Xq3'
             const user = document.getElementById("userinput").value
             const country = document.getElementById("countryinput").value
             const birthday = document.getElementById("birthinput").value
