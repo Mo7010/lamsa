@@ -334,5 +334,11 @@ main{
   .works img{
     width:80%;
   }
+  .cont1{
+    width:80%;
+  }
+  .cont1 p{
+    font-size:15px;
+  }
 }
 </style>
