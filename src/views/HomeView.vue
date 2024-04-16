@@ -206,7 +206,7 @@ main{
 }
 
 .prices{
-  margin-top:-100px;
+  margin-top:100px;
   width:100%;
   display:flex;
   flex-direction:column;
