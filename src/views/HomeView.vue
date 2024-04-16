@@ -345,7 +345,16 @@ main{
   .cont1 p{
     font-size:20px;
   }
-  .prices .card h2,.pricrs .card .info,.prices .card .price{
+
+  .prices .card{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  
+  .prices .card h2,.prices .card .info,.prices .card .price{
     width:300px;
   }
   .home{
