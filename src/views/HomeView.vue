@@ -158,7 +158,7 @@ export default{
 }
 
   .home svg{
-    margin-top:80px;
+    margin-top:50px;
   }
 .card h2{
   font-size:30px;
