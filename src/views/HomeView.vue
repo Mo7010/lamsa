@@ -358,7 +358,7 @@ main{
     width:300px;
   }
   .home{
-    min-height:150vh;
+    min-height:120vh;
   }
 }
 </style>
