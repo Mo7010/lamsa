@@ -346,7 +346,7 @@ main{
     font-size:20px;
   }
   .prices .card h2,.pricrs .card .info,.prices .card .price{
-    width:100%;
+    width:300px;
   }
   .home{
     min-height:150vh;
