@@ -157,6 +157,9 @@ export default{
   gap:30px;
 }
 
+  .home svg{
+    margin-top:100px;
+  }
 .card h2{
   font-size:30px;
   color:#3C6CFF;
