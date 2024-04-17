@@ -3,7 +3,6 @@
       <div class="left">
           <img src="https://media.discordapp.net/attachments/1229488327124586607/1229489909648199810/772BDE8C-F7B0-422A-8B7D-CD8162611EBF.png?ex=662fdeb5&is=661d69b5&hm=92eaeed4cc570f537d0f7c50082f96fb73f51b2e6ab7fce9f14d646114f6add2&=&format=webp&quality=lossless&width=400&height=400" alt="tetra logo">
           <h4>© 2024 Lamsa Services</h4>
-          <h4>Developed By fr3o.n</h4>
       </div>
       <list>
           <nav>
