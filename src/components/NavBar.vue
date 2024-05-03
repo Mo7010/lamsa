@@ -35,7 +35,7 @@
 
 .nav .pages a,.page{
   text-decoration:none;
-  color:white;
+  color:#3B0C52;
   cursor:pointer;
 }
 
