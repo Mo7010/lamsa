@@ -10,7 +10,7 @@
       <a href="/#works">الأعمال</a>
       <RouterLink class="page" to="/order">اطلب الان</RouterLink>
     </div>
-    <a class="btn" href="https://discord.gg/l-m1">سيرفر الديسكورد</a>
+    <a class="btn" href="https://discord.gg/lamsa">سيرفر الديسكورد</a>
   </div>
 </template>
 
