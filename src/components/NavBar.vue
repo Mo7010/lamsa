@@ -35,7 +35,7 @@
 
 .nav .pages a,.page{
   text-decoration:none;
-  color:#3B0C52;
+  color:#582592;
   cursor:pointer;
 }
 
@@ -52,12 +52,12 @@
 }*/
 
 .nav .pages a:hover{
-  border-bottom:1px solid white;
+  border-bottom:1px solid #582592;
 }
 
 .nav .btn{
   text-decoration:none;
-  color:#3C6CFF;
+  color:#582592;
   padding:5px 15px;
   border-radius:8px;
   background-color:white;
