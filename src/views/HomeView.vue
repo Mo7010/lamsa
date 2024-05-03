@@ -232,7 +232,7 @@ main{
 .home{
   width:100%;
   height:100vh;
-  background-image:url('https://media.discordapp.net/attachments/1229488327124586607/1235934098569039892/E940DFEB-2EE6-476E-8DCC-474AB0BE36F9.jpg?ex=66362cd3&is=6634db53&hm=abf914d0d1230f02f88c516072d0c28d2193c86ccee2ea77c3f9c0d273554777&=&format=webp&width=1202&height=676');
+  background-image:url('https://media.discordapp.net/attachments/1229488327124586607/1235934098569039892/E940DFEB-2EE6-476E-8DCC-474AB0BE36F9.jpg?ex=66362cd3&is=6634db53&hm=abf914d0d1230f02f88c516072d0c28d2193c86ccee2ea77c3f9c0d273554777&=&format=webp');
   background-size:cover;
 }
 
