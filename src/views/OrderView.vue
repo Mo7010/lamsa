@@ -166,7 +166,7 @@ export default{
     text-transform:uppercase;
     padding:12px 22px;
     color:gray;
-    background-color:rgb(35, 231, 166);
+    background-color:#EFA528;
     border-radius:8px;
     border-bottom:4px solid rgb(13, 141, 98);
 }
