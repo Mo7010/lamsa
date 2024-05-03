@@ -281,8 +281,8 @@ main{
     height:250px;
     display:flex;
     flex-direction:column;
-    border-top:4px solid #3C6CFF;
-    border-bottom:4px solid #3C6CFF;
+    border-top:4px solid #EFA528;
+    border-bottom:4px solid #EFA528;
 }
 
 .top{
