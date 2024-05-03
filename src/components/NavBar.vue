@@ -3,7 +3,7 @@
 </script>
 <template>
   <div class="nav">
-    <img src="https://media.discordapp.net/attachments/1229488327124586607/1229489909648199810/772BDE8C-F7B0-422A-8B7D-CD8162611EBF.png?ex=662fdeb5&is=661d69b5&hm=92eaeed4cc570f537d0f7c50082f96fb73f51b2e6ab7fce9f14d646114f6add2&=&format=webp&quality=lossless&width=80&height=80">
+    <img src="https://media.discordapp.net/attachments/1229488327124586607/1235930332235169885/C98CBA3F-7E7E-49D8-A8F0-0826D4BFB9CF.png?ex=66362951&is=6634d7d1&hm=77d717e6aa41eb54e9c6ee01132bd5b28b8c61350dc2398f4818927e8a3678fe&=&format=webp&quality=lossless&width=80&height=80">
     <div class="pages">
       <a href="/">الرئيسية</a>
       <a href="#prices">الأسعار</a>
