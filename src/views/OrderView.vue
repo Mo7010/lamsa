@@ -99,15 +99,15 @@ export default{
                 </div>
                 <div class="inp">
                     <label>لون التصميم</label>
-                    <input id="workinput" placeholder="Ex: 1 Info" type="text">
+                    <input id="workinput" placeholder="Ex: Color Code #FFFF type="text">
                 </div>
                 <div class="inp">
                     <label>فكرة التصميم</label>
-                    <input id="langinput" placeholder="Ex: Color Code #FFFF" type="text">
+                    <input id="langinput" placeholder="Design Idea" type="text">
                 </div>
                 <div class="inp">
                     <label>طريقة الدفع</label>
-                    <input id="priceinput" placeholder="Ex: Color Code #FFFF" type="text">
+                    <input id="priceinput" placeholder="Ex: Paypal" type="text">
                 </div>
                 <div class="inp">
                     <label>انتهينا</label>
