@@ -99,7 +99,7 @@ export default{
                 </div>
                 <div class="inp">
                     <label>لون التصميم</label>
-                    <input id="workinput" placeholder="Ex: Color Code #FFFF type="text">
+                    <input id="workinput" placeholder="Ex: Color Code #FFFF" type="text">
                 </div>
                 <div class="inp">
                     <label>فكرة التصميم</label>
