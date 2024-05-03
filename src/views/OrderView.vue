@@ -20,6 +20,7 @@ export default{
             const birthday = document.getElementById("birthinput").value
             const work = document.getElementById("workinput").value
             const languages = document.getElementById("langinput").value
+            const price = document.getElementById("priceinput").value
             
             const applyMessage = {
                 content: '**طلب جديد:**',
@@ -30,8 +31,9 @@ export default{
                         { name: 'الايدي', value: user },
                         { name: 'الحزمة', value: birthday },
                         { name: 'تفاصيل الطلب', value: country },
-                        { name: 'اشياء اضافية', value: work },
-                        { name: 'ملاحظات', value: languages }
+                        { name: 'لون التصميم', value: work },
+                        { name: 'فكرة التصميم', value: languages }
+                        { name: 'طريقة الدفع', value: price }
                     ]
                 }]
             };
@@ -58,6 +60,7 @@ export default{
                 document.getElementById("birthinput").value = '';
                 document.getElementById("workinput").value = '';
                 document.getElementById("langinput").value = '';
+                document.getElementById("priceinput").value = '';
             }).catch(error => {
                 console.error('حدث خطأ:', error);
                 alert('Error, Please Try Again');
@@ -66,6 +69,7 @@ export default{
                 document.getElementById("birthinput").value = '';
                 document.getElementById("workinput").value = '';
                 document.getElementById("langinput").value = '';
+                document.getElementById("priceinput").value = '';
             });
             }
         }
@@ -79,7 +83,7 @@ export default{
         <div class="apply">
             <div class="cont">
                 <RouterLink to="/">
-                    <img src="https://media.discordapp.net/attachments/1229488327124586607/1229489909648199810/772BDE8C-F7B0-422A-8B7D-CD8162611EBF.png?ex=662fdeb5&is=661d69b5&hm=92eaeed4cc570f537d0f7c50082f96fb73f51b2e6ab7fce9f14d646114f6add2&=&format=webp&quality=lossless&width=200&height=200" alt="Lamsa Logo">
+                    <img src="https://media.discordapp.net/attachments/1229488327124586607/1235930332235169885/C98CBA3F-7E7E-49D8-A8F0-0826D4BFB9CF.png?ex=66362951&is=6634d7d1&hm=77d717e6aa41eb54e9c6ee01132bd5b28b8c61350dc2398f4818927e8a3678fe&=&format=webp&quality=lossless&width=200&height=200" alt="Lamsa Logo">
                 </RouterLink>
                 <div class="inp">
                     <label>ايدي الديسكورد حقك</label>
@@ -94,12 +98,16 @@ export default{
                     <input id="birthinput" placeholder="Order Info" type="text">
                 </div>
                 <div class="inp">
-                    <label>تبي تزود شي ؟"</label>
+                    <label>لون التصميم</label>
                     <input id="workinput" placeholder="Ex: 1 Info" type="text">
                 </div>
                 <div class="inp">
-                    <label>ملاحظات</label>
+                    <label>فكرة التصميم</label>
                     <input id="langinput" placeholder="Ex: Color Code #FFFF" type="text">
+                </div>
+                <div class="inp">
+                    <label>طريقة الدفع</label>
+                    <input id="priceinput" placeholder="Ex: Color Code #FFFF" type="text">
                 </div>
                 <div class="inp">
                     <label>انتهينا</label>
@@ -131,7 +139,7 @@ export default{
     gap:80px;
     padding:60px 20px;
     border-radius:6px;
-    background-image: repeating-linear-gradient(90deg, rgba(0,0,0, 0.06) 0px, rgba(0,0,0, 0.06) 1px,transparent 1px, transparent 21px,rgba(0,0,0, 0.06) 21px, rgba(0,0,0, 0.06) 22px,transparent 22px, transparent 72px),repeating-linear-gradient(0deg, rgba(0,0,0, 0.06) 0px, rgba(0,0,0, 0.06) 1px,transparent 1px, transparent 21px,rgba(0,0,0, 0.06) 21px, rgba(0,0,0, 0.06) 22px,transparent 22px, transparent 72px),repeating-linear-gradient(135deg, rgba(0,0,0, 0.06) 0px, rgba(0,0,0, 0.06) 1px,transparent 1px, transparent 21px,rgba(0,0,0, 0.06) 21px, rgba(0,0,0, 0.06) 22px,transparent 22px, transparent 72px),linear-gradient(90deg, #3C6CFF,#3C6CFF);
+    background-image: repeating-linear-gradient(90deg, rgba(0,0,0, 0.06) 0px, rgba(0,0,0, 0.06) 1px,transparent 1px, transparent 21px,rgba(0,0,0, 0.06) 21px, rgba(0,0,0, 0.06) 22px,transparent 22px, transparent 72px),repeating-linear-gradient(0deg, rgba(0,0,0, 0.06) 0px, rgba(0,0,0, 0.06) 1px,transparent 1px, transparent 21px,rgba(0,0,0, 0.06) 21px, rgba(0,0,0, 0.06) 22px,transparent 22px, transparent 72px),repeating-linear-gradient(135deg, rgba(0,0,0, 0.06) 0px, rgba(0,0,0, 0.06) 1px,transparent 1px, transparent 21px,rgba(0,0,0, 0.06) 21px, rgba(0,0,0, 0.06) 22px,transparent 22px, transparent 72px),linear-gradient(90deg, #EFA528,#EFA528 );
     border-left:4px solid rgb(228, 228, 228);
 }
 
