@@ -157,7 +157,7 @@ export default{
   }
 .card h2{
   font-size:30px;
-  color:#3C6CFF;
+  color:#582592;
 }
 
 .card .info{
@@ -190,7 +190,7 @@ export default{
 }
 
 .prices h1,.feedbacks h1,.works h1{
-  color:#3C6CFF;
+  color:#582592;
   font-size:50px;
 }
 
@@ -265,7 +265,7 @@ main{
 
 .btn{
   text-decoration:none;
-  color:#3C6CFF;
+  color:#582592;
   padding:8px 30px;
   border-radius:25px;
   background-color:white;
