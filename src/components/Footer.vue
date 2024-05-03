@@ -13,7 +13,7 @@
           <a href="https://discord.gg/lamsa">Contact</a>
       </nav>
       <nav>
-          <a href="/order">الطلب</a>
+          <a href="https://discord.gg/lamsar">الطلب</a>
           <a href="/">عنا</a>
           <a href="#works">الاعمال</a>
           <a href="#prices">الاسعار</a>
