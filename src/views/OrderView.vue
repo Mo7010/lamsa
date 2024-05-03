@@ -32,8 +32,8 @@ export default{
                         { name: 'الحزمة', value: birthday },
                         { name: 'تفاصيل الطلب', value: country },
                         { name: 'لون التصميم', value: work },
-                        { name: 'فكرة التصميم', value: languages }
-                        { name: 'طريقة الدفع', value: price }
+                        { name: 'فكرة التصميم', value: languages },
+                        { name: 'طريقة الدفع', value: price },
                     ]
                 }]
             };
