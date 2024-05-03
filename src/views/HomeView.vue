@@ -38,7 +38,7 @@ export default{
       <h1>الأسعار <font-awesome-icon :icon="['fas', 'tag']" /></h1>
       <div class="cont">
         <div class="card">
-          <h2>حزمة الاثارة</h2>
+          <h2>حزمة الجوهرة</h2>
           <div class="info">
             <a>لوقو ثابت او متحرك</a>
             <a>بنر ثابت او متحرك</a>
@@ -47,12 +47,12 @@ export default{
             <a>صور بوتات 4</a>
           </div>
           <div class="price">
-            <h3>5 مليون كرديت</h3>
-            <h3>28 ريال سعودي</h3>
+            <h3>8 مليون كرديت</h3>
+            <h3>37 ريال سعودي</h3>
           </div>
         </div>
         <div class="card">
-          <h2>حزمة الابداع</h2>
+          <h2>حزمة غيمة</h2>
           <div class="info">
             <a>لوقو ثابت او متحرك</a>
             <a>بنر ثابت او متحرك</a>
@@ -63,12 +63,12 @@ export default{
             <a>ترحيب</a>
           </div>
           <div class="price">
-            <h3>7 مليون كرديت</h3>
-            <h3>40 ريال سعودي</h3>
+            <h3>12 مليون كرديت</h3>
+            <h3>45 ريال سعودي</h3>
           </div>
         </div>
         <div class="card">
-          <h2>حزمة المستوي</h2>
+          <h2>حزمة البرونزي</h2>
           <div class="info">
             <a>لوقو ثابت</a>
             <a>بنر ثابت</a>
@@ -77,8 +77,8 @@ export default{
             <a>صور بوتات 2</a>
           </div>
           <div class="price">
-            <h3>3.5 مليون كرديت</h3>
-            <h3>13 ريال سعودي</h3>
+            <h3>5 مليون كرديت</h3>
+            <h3>20 ريال سعودي</h3>
           </div>
         </div>
       </div>
