@@ -168,7 +168,7 @@ export default{
     color:gray;
     background-color:#582592;
     border-radius:8px;
-    border-bottom:4px solid rgb(13, 141, 98);
+    border-bottom:4px solid rgba(88,37,146,0.6);
 }
 
 .btn{
@@ -177,9 +177,9 @@ export default{
     width:60vw;
     padding:12px 0;
     color:white;
-    background-color:rgb(35, 231, 166);
+    background-color:#582592;
     border-radius:8px;
-    border-bottom:4px solid rgb(13, 141, 98);
+    border-bottom:4px solid rgba(88,37,146,0.6);
     cursor:pointer;
 }
 
