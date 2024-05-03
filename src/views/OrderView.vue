@@ -168,7 +168,7 @@ export default{
     color:gray;
     background-color:#582592;
     border-radius:8px;
-    border-bottom:4px solid rgba(88,37,146,2.8);
+    border-bottom:4px solid #3B0C52;
 }
 
 .btn{
@@ -179,12 +179,12 @@ export default{
     color:white;
     background-color:#582592;
     border-radius:8px;
-    border-bottom:4px solid rgba(88,37,146,2.8);
+    border-bottom:4px solid #3B0C52;
     cursor:pointer;
 }
 
 .btn:hover{
-    border-bottom:2px solid rgba(88,37,146,2.8);
+    border-bottom:2px solid #3B0C52;
 }
 
 @media (max-width:700px) {
