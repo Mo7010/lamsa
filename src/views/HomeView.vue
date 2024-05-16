@@ -11,9 +11,9 @@ export default{
   data() {
     return {
       images:[
-        'https://media.discordapp.net/attachments/1229488327124586607/1235938364222607370/C41E2F59-5A48-4513-A837-B5F50878F5F4.jpg?ex=663630cc&is=6634df4c&hm=f7146878a685ae34ea5984c30cd4d926592d1a1c2bf3f22e269c3466cc0d8711&',
-        'https://media.discordapp.net/attachments/1229488327124586607/1235938398649454592/5EB65398-2069-4400-B7D8-254A5F28F6F8.jpg?ex=663630d4&is=6634df54&hm=1ca312519ed72ff4ba45b4c751bac96986f9ecdc59cbbfeec56992f057b6c618&',
-        'https://media.discordapp.net/attachments/1229488327124586607/1235938409617297441/3C009975-9DCB-4A27-B4DB-6DE6A20726C9.jpg?ex=663630d7&is=6634df57&hm=59eb4b59e13a043133504b73934b75d37f6dd086ac065f9da90bea225b2dfc19&'
+        'https://media.discordapp.net/attachments/1229488327124586607/1235938364222607370/C41E2F59-5A48-4513-A837-B5F50878F5F4.jpg?ex=6646ab8c&is=66455a0c&hm=6c4a5a621e6921c20ff9b4cb98bc90169a12e86d6dde0789a0bc6ce929173ca7&=&format=webp&width=1369&height=676',
+        'https://media.discordapp.net/attachments/1229488327124586607/1235938398649454592/5EB65398-2069-4400-B7D8-254A5F28F6F8.jpg?ex=6646ab94&is=66455a14&hm=52d2dc57c6627fc185da6e6c6eb71d6e335fcf1f42495e446a872b5fa0425ac9&=&format=webp&width=1369&height=676',
+        'https://media.discordapp.net/attachments/1229488327124586607/1235938409617297441/3C009975-9DCB-4A27-B4DB-6DE6A20726C9.jpg?ex=6646ab97&is=66455a17&hm=65ab57fec94f76dc5634902521c54daba2e733279d20da78ed275262f3faf9f8&=&format=webp&width=1369&height=676'
       ]
     };
   },
@@ -227,7 +227,7 @@ main{
 .home{
   width:100%;
   height:100vh;
-  background-image:url('https://media.discordapp.net/attachments/1229488327124586607/1235934098569039892/E940DFEB-2EE6-476E-8DCC-474AB0BE36F9.jpg?ex=66362cd3&is=6634db53&hm=abf914d0d1230f02f88c516072d0c28d2193c86ccee2ea77c3f9c0d273554777&=&format=webp');
+  background-image:url('https://cdn.discordapp.com/attachments/1229488327124586607/1235934098569039892/E940DFEB-2EE6-476E-8DCC-474AB0BE36F9.jpg?ex=6646a793&is=66455613&hm=ae42d055cbb9db6a6364818bb771748aa49f09f7d1ecbc4850db75325690ef40&');
   background-size:cover;
 }
 
